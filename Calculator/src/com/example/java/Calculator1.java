@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import static com.example.java.util.MathMethods.*;
 
-public class Calculator {
+public class Calculator1 {
 
     public static void main(String[] args) {
         String s1 = getInput("Enter a numeric value: ");
